@@ -1,0 +1,2 @@
+# sipastroke
+Sistem Pakar Stroke
